@@ -1,6 +1,8 @@
 # VHDL_Calculator
 
 Implemented a calculator based off an ISA design with 5 instructions. This project includes behavioral hardware components for:
+   
+    
     -- ALU
     -- Control singals
     -- Instruction fetch
